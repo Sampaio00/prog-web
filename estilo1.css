@@ -107,3 +107,17 @@ footer {
 	font-size: 15px;
 	top: 32px;
 }
+@media (min-width: 480px)
+{
+	footer {
+		position: relative;
+		background: #4094f5;
+}
+}
+
+@media (min-width: 768px)
+{
+	body {
+		background-color: #dc35e2;
+	}
+}
